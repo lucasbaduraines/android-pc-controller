@@ -15,7 +15,7 @@ TXD --> 11\
 GND --> GND\
 VCC --> 5V
 
-#DEMONSTRAION
+# DEMONSTRAION
 https://www.youtube.com/watch?v=foqMaVaeRNY
 
 # EDUCATIONAL PURPOSES ONLY
