@@ -2,7 +2,7 @@
 control a pc via an android phone with an arduino
 
 # ELECTRONICS
-ardino micro
+ardino micro\
 HC-06
 
 # WIRING
