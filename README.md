@@ -12,3 +12,4 @@ GND --> GND\
 VCC --> 5V
 
 # EDUCATIONAL PURPOSES ONLY
+if you do anything stupid i am NOT liable
